@@ -216,6 +216,7 @@ footer a {
 }
 
 footer a:hover {
+    background-color: #f3ecec;
     color: #ccc;
 
 }
