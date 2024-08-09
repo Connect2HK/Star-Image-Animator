@@ -203,7 +203,7 @@ footer {
     width: 100%;
     background: transparent; /* changed from linear gradient to transparent */
     color: black;
-    padding-bottom: 40px;
+    padding-bottom: 41px;
     text-align: center;
     font-size: 1.2rem;
     z-index: 1; /* added z-index to ensure footer is on top of content */
