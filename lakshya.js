@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const finalImage = document.getElementById('final-image');
     const congratulationsMessage = document.getElementById('congratulations');
     const starFrames = document.querySelectorAll('.star-frame');
-  // animation con
+  // animation cont
     const startAnimation = () => {
       // Hide the initial UI (button and heading)
       initialUI.classList.add('hidden');
